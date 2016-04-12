@@ -22,7 +22,7 @@ Orchextra SDK is composed of **Orchextra Core** and **Vuforia Orchextra** as an 
 Download [*Orchextra iOS-Sample-App*][ios-sample-app] to understand how to use the SDK.
 
 ### Requirements
-- ios 7 or later
+- iOS 7 or higher
 
 ### Download SDK
 To use *Orchextra Core*, head on over to the [releases][releases] page, and download the latest build "Orchextra.zip".
