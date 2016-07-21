@@ -18,8 +18,8 @@
 /* Alert Location */
 
 "Location_services_are_off" = "Serviço de localização desligado";
-"Background_location_is_not_enabled" = "Serviço de localização não está habilitado";
-"Turn_on_background_location_service" = "Para usar o serviço de localização deve ativá-lo'Always' em Ajustes";
+"Background_location_is_not_enabled" = "O serviço de localização não está ligado";
+"Turn_on_background_location_service" = "Descubra novidades ativando o serviço de localização. Altere para 'Sempre' em Ajustes e aproveite!";
 "Settings" = "Ajustes";
 
 /* Default Local Notification*/
@@ -33,7 +33,7 @@
 
 //------------------------------------------------------------------------------------------------------------------------------//
 
-"scanner" = "Scanner";
+"scanner" = "Leitor de Códigos";
 "scanning" = "Escaneando...";
 "match_not_found" = "Combinação não encontrada";
 "match_found" = "Combinação encontrada";
@@ -44,7 +44,7 @@
 
 //------------------------------------------------------------------------------------------------------------------------------//
 
-"Browser" = "Browser";
+"Browser" = "Navegador";
 
 //------------------------------------------------------------------------------------------------------------------------------//
 
@@ -52,8 +52,8 @@
 
 //------------------------------------------------------------------------------------------------------------------------------//
 "title_image_recognition" = "Reconhecimento de imagem";
-"button_start"="Inicie";
-"activities_list_title_string"="Vuforia Samples";
+"button_start"="Iniciar";
+"activities_list_title_string"="Exemplos Vuforia";
 "activities_list_empty"="Nenhuma atividade";
 "button_OK"="OK";
 
@@ -77,13 +77,13 @@
 "UPDATE_ERROR_BAD_FRAME_QUALITY_DESC"="A câmera não tem especificação mínima; por favor, tente mais tarde.";
 "UPDATE_ERROR_UNKNOWN_DESC"="O serviço está indisponível; por favor, tente mais tarde.";
 
-"content_desc_camera_button"="Botão da câmera";
+"content_desc_camera_button"="Câmera";
 "overlay_build_target_help"="Segure o dispositivo paralelo ao alvo";
-"target_quality_error_title"="Baixa qualidade de imagem";
+"target_quality_error_title"="Imagem de baixa qualidade";
 "target_quality_error_desc"="A imagem tem pouca qualidade, por favor, tente outra imagem.";
 
-"menu_back"="Vuforia Samples";
-"menu_extended_tracking"="Rastreamento estendida";
+"menu_back"="Exemplos Vuforia";
+"menu_extended_tracking"="Rastreamento estendido";
 "menu_character_mode"="Modo caracter";
 "menu_flash"="Flash";
 "menu_flash_error_on"="Não é possível ligar o flash";
@@ -93,11 +93,11 @@
 "menu_contAutofocus_error_off"="Não é possível desativar o autofoco contínuo";
 "menu_datasets"="Conjunto de dados";
 "menu_camera"="CÂMERA";
-"menu_camera_front"="Frentet";
+"menu_camera_front"="Frente";
 "menu_camera_back"="Traseiro";
 "menu_button_red"="Vermelho";
 "menu_button_blue"="Azul";
 "menu_button_yellow"="Amarelo";
 "menu_button_green"="Verde";
 
-"splash_screen_description"="Vuforia Splash";
+"splash_screen_description"="Splash Vuforia";
